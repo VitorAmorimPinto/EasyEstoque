@@ -1,0 +1,6 @@
+persistencia\ProdutoDaoImpl.class
+persistencia\BaseDados.class
+persistencia\ProdutoDao.class
+negocios\CadProdutoImpl.class
+modelo\Produto.class
+negocios\CadProduto.class
